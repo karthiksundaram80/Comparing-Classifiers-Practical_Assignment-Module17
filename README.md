@@ -31,4 +31,4 @@ variable
 Performed <b>K-Nearest Neighbor </b>, <b>Decision Trees</b>, and <b>Support Vector Machines</b> classification on the dataset
 
 # <b>Results </b>:
-Compared the results against a <b>baseline model and a simple logistic regression</b>
+Compared the results against a <b>baseline model and a simple logistic regression</b>. Almost all models improved on <b>Train time, Train Accuracy and Test Accuracy</b>. Out of all models, <b>SVM greatly improved on train time</b>.
